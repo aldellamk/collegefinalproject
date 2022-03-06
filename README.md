@@ -15,4 +15,4 @@ Here is the detail for the concepts:
 Two method was compared here are the combination within markov-chain concept and without it.
 
 I used a stock price of one emiten (emiten code: WSKT) for my prediction simulation.
-The result from simulation show the modification within markov-chain having the higher accuration rate than another one.
+The result from simulation show the modification within markov-chain having the higher accurate rate than another one.
